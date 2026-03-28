@@ -1,46 +1,48 @@
 # 🛡️ DC INFOSEC | Deniz Ceylan
-> **Cybersecurity Researcher & SaaS Developer**
-
-<!-- 
-Hier wird das generierte Banner eingefügt, sobald wir die Asset-Struktur haben.
--->
-
-### 🚀 Expertise
-- **Offensive Security**: IoT-Hacking (ESP32), Network Audits & Vulnerability Research.
-- **SaaS Development**: Scalable Fullstack applications with React, Node.js & Supabase.
-- **Automation Engineer**: Architecting efficient digital workflows and AI-driven systems.
+> **Advanced Cybersecurity Researcher & Full-Stack SaaS Architect**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Mission
+I bridge the gap between complex security research and scalable SaaS solutions. My work focuses on offensive IoT security, automated compliance (NIS2), and building decentralized communication systems.
 
-| Category | technologies |
+---
+
+### 🔧 Core Expertise & Technologies
+
+| Domain | Stack |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), C++, HTML/CSS |
-| **Frontend** | React, Vite, TailwindCSS |
-| **Backend** | Node.js, Express, Supabase, PostgreSQL |
-| **Security** | Kali Linux, Burp Suite, Metasploit, Wireshark, ESP32-Devkits |
-| **Cloud/DevOps** | Docker, Nginx, Cloudflare Tunnels (Pi-Based) |
+| **Offensive Security** | `ESP32` `Hardware Hacking` `Burp Suite` `Kali Linux` |
+| **SaaS Frameworks** | `React` `Next.js` `Node.js` `Rust` |
+| **Data & Cloud** | `Supabase` `PostgreSQL` `Docker` `Nginx` |
+| **Compliance** | `NIS2UmsuCG` `Digital Workflow Automation` |
 
 ---
 
-### 📂 Featured Projects
+### 📂 Portfolio Highlights
 
 #### 📡 [PentestESP32](https://github.com/N0L3X/PentestESP32)
-A comprehensive framework for ESP32-based penetration testing.
-*   **Skills:** Hardware Hacking, C++, WiFi Security.
+*Advanced WiFi Penetration Testing Extension for ESP32.*
+- **Key Features:** Deauth, Beacon Spam, Probe Sniffing.
+- **Tech:** C++, WiFi Protocol Auditing.
 
 #### ⚖️ [NIS2-Panik-Übersetzer](https://github.com/N0L3X/nis2-panik-uebersetzer)
-Automated compliance solutions for SMEs following German NIS2UmsuCG legislation.
-*   **Skills:** Next.js, AI Implementation, Law-to-Tech translation.
+*Legal-to-Tech translation SaaS for German SME compliance.*
+- **Outcome:** Audit-ready documentation in 15 minutes.
+- **Tech:** Next.js, AI Engineering.
+
+#### 💬 [PhantomChat](https://github.com/N0L3X/phantomchat)
+*Decentralized, privacy-first messenger architecture.*
+- **Tech:** Rust, Decentralized P2P Networking.
 
 ---
 
-### 📊 GitHub Insights
-<p align="left">
+### 📊 GitHub Activity Snapshot
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N0L3X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0L3X&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
 </p>
 
 ---
-📫 **Get in touch:** [Portfolio](https://your-portfolio-link.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+📫 **Connect with me:** [Digital Identity Portfolio](https://your-portfolio-link.com)
